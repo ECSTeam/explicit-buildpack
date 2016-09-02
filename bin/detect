@@ -1,4 +1,3 @@
 #!/bin/sh
 
-echo "You didn't select a buildpack explicitly! This is about to fail."
 exit 0
