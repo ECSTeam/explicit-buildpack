@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo '---> You did not specify a buildpack! You should either set the `buildpack`'
+echo '---> field in manifest.yml, or using the `-b` command line flag.'
+
+exit 1
